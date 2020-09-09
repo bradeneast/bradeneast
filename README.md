@@ -1,5 +1,12 @@
-# I'm Braden, a user-*experienced* designer 🪐 
+<br />
+<br />
+
+# I'm Braden, a user-*experienced* designer 🪐
+
 > I've spent the last five years in web technology and design. Most of that time has been working directly with the humans who use what I create.
+<br />
+<br />
+<br />
 
 
 ## What I'm doing right now
