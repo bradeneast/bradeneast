@@ -3,7 +3,7 @@
 
 
 ## What I'm doing right now
-I'm currently in Oklahoma City as part of the creative group for [Oklahoma Baptists](https://oklahomabaptists.org) ⛪. When I get a chance, I code, play drums, go hiking, and ride BMX.
+I'm currently in Oklahoma City as part of the creative group for [Oklahoma Baptists](https://oklahomabaptists.org) ⛪. When I get a chance, I code, play drums, and ride BMX.
 
 ### Teaching
 I have a [blog for dev-signers](https://bradeneast.com/blog), where I share what I've learned at the intersection of design and development.
