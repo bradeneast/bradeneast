@@ -3,7 +3,7 @@
 
 # I'm Braden, a user-*experienced* designer 🪐
 
-> My best projects revolve around static sites, CSS animation, and front-end performance 🏆. That's what you can expect to find in my repos.
+> My best projects revolve around static sites, CSS animation, and front-end performance 🏆.
 <br />
 <br />
 <br />
