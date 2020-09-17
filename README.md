@@ -8,6 +8,9 @@
 <br />
 <br />
 
+## I have a blog for dev-signers
+[The blog](https://bradeneast.com/blog) is where I share what I've learned and am learning from my creative pursuits.
+
 ## Working on an exciting project?
 I'd love to collaborate and contribute. DM or email me and let's start a conversation.
 
