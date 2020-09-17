@@ -1,7 +1,7 @@
 <br />
 <br />
 
-# I'm Braden, a user-*experienced* designer 🪐
+# I'm Braden, a ~graphic designer~ front-end developer 🪐
 
 > My best projects revolve around static sites, CSS animation, and front-end performance 🏆.
 <br />
