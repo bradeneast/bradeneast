@@ -1,4 +1,4 @@
-# I'm Braden, a ~front-end dev~ graphic designer.
+# I'm Braden, a graphic designer.
 
 > My best code revolve around static sites, CSS animation, and front-end performance 🏆
 
